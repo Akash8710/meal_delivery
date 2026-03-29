@@ -48,15 +48,3 @@ This analysis was conducted with a few key constraints that limit certain conclu
 - SQL (Data Cleaning & Analysis)
 - Excel (Dashboard & Visualizations)
 
-## 👤 Author
-
-**Joshua Opadoja**  
-Data Analyst | Solving problems using data and code
- 
- 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-opadoja-5682592b5)
- 🔗 [X(Twitter)](https://x.com/JDataCraft?t=lf1r_jM5QHj6FRG15XdNTA&s=09)
-
-## ⭐ Support
-
-If you found this project insightful, please consider starring the repo to support my work and help others discover it!
-
